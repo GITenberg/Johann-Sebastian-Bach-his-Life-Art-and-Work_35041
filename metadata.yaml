@@ -1,0 +1,41 @@
+_repo: Johann-Sebastian-Bach-his-Life-Art-and-Work_35041
+_version: 0.1.0
+alternative_title: Ueber Johann Sebastian Bachs Leben, Kunst und Kunstwerke. English
+contributor:
+  translator:
+    agent_name: Terry, Charles Sanford
+    alias: Terry, C. Sanford (Charles Sanford)
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '37426'
+    url: http://www.gutenberg.org/2009/agents/37426
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sanford_Terry_(historian)
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forkel, Johann Nikolaus
+    aliases:
+    - Forkel, Johann Nicolaus
+    - Forkel, J. N. (Johann Nikolaus)
+    birthdate: 1749
+    deathdate: 1818
+    gutenberg_agent_id: '37425'
+    url: http://www.gutenberg.org/2009/agents/37425
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Nikolaus_Forkel
+description: 'Translation of: Ueber Johann Sebastian Bachs Leben, Kunst und Kunstwerke'
+gutenberg_issued: '2011-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Germany -- Biography'
+- !lcsh 'Bach, Johann Sebastian, 1685-1750'
+- !lcc 'ML'
+title: 'Johann Sebastian Bach: His Life, Art, and Work'
+url: http://www.gutenberg.org/ebooks/35041
