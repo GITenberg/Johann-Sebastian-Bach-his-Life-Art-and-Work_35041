@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37425
     wikipedia: http://en.wikipedia.org/wiki/Johann_Nikolaus_Forkel
 description: 'Translation of: Ueber Johann Sebastian Bachs Leben, Kunst und Kunstwerke'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35041#Johann-Sebastian-Bach-his-Life-Art-and-Work
 gutenberg_issued: '2011-01-24'
 gutenberg_type: Text
 identifiers:
